@@ -1,24 +1,5 @@
-# `STAIR`lab
+# STructural Artificial Inteligence Research Lab
 
-<img align="left" src="https://raw.githubusercontent.com/claudioperez/sdof/master/docs/assets/peer-black-300.png" width="250px" alt="SDOF logo">
-
-STructural Artificial Inteligence Research Lab
-
-<br>
-
-<div style="align:center">
-
-[![Latest PyPI version](https://img.shields.io/pypi/v/sdof?logo=pypi&style=for-the-badge)](https://pypi.python.org/pypi/sdof)
-<span class="badge-npmversion"><a href="https://npmjs.org/package/sdof" title="View this project on NPM"><img src="https://img.shields.io/npm/v/sdof.svg?logo=npm&style=for-the-badge" alt="NPM version" /></a></span>
-
-</div>
-
-
-- [`mdof`](https://pypi.org/project/mdof)
-- [`opensees`](https://pypi.org/project/opensees)
-
-
-## Support
 
 <table align="center">
 <tr>
