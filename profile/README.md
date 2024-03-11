@@ -1,5 +1,11 @@
 # STructural Artificial Inteligence Research Lab
 
+#### Python Packages
+
+- [`opensees`](https://pypi.org/project/opensees) Redesigned and optimized OpenSees interface
+- [`sees`](https://pypi.org/project/sees) Model rendering library
+- [`mdof`](https://pypi.org/project/mdof) Optimized system identification library
+- [`sdof`](https://pypi.org/project/sdof) Optimized integration for single degree of freedom systems
 
 <table align="center">
 <tr>
