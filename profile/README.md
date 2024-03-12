@@ -1,9 +1,5 @@
 # STructural Artificial Inteligence Research Lab
 
-#### Recent Publications
-
-- Pang, I.K.-T., Gao, Y. and Mosalam, K.M. (2024) ‘Deep Reinforcement Learning for Structural Model Updating Using Transfer Learning Mechanism’, in Computing in Civil Engineering 2023. ASCE International Conference on Computing in Civil Engineering 2023, Corvallis, Oregon: American Society of Civil Engineers, pp. 364–371. Available at: https://doi.org/10.1061/9780784485231.044.
-
 
 #### Python Packages
 
@@ -11,6 +7,10 @@
 - [`sees`](https://pypi.org/project/sees) Model rendering library
 - [`mdof`](https://pypi.org/project/mdof) Optimized system identification library
 - [`sdof`](https://pypi.org/project/sdof) Optimized integration for single degree of freedom systems
+
+#### Recent Publications
+
+- Pang, I.K.-T., Gao, Y. and Mosalam, K.M. (2024) *‘Deep Reinforcement Learning for Structural Model Updating Using Transfer Learning Mechanism’*, in Computing in Civil Engineering 2023. ASCE International Conference on Computing in Civil Engineering 2023, Corvallis, Oregon: American Society of Civil Engineers, pp. 364–371. Available at: https://doi.org/10.1061/9780784485231.044.
 
 <table align="center">
 <tr>
