@@ -14,7 +14,7 @@
 
 #### Other Projects
 
-- [$Phi$-Net](https://apps.peer.berkeley.edu/phi-net/)
+- $Phi$-[Net](https://apps.peer.berkeley.edu/phi-net/)
 
 <table align="center">
 <tr>
