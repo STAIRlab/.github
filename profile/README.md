@@ -12,6 +12,10 @@
 
 - Pang, I.K.-T., Gao, Y. and Mosalam, K.M. (2024) *‘Deep Reinforcement Learning for Structural Model Updating Using Transfer Learning Mechanism’*, in Computing in Civil Engineering 2023. ASCE International Conference on Computing in Civil Engineering 2023, Corvallis, Oregon: American Society of Civil Engineers, pp. 364–371. Available at: https://doi.org/10.1061/9780784485231.044.
 
+#### Other Projects
+
+- [$Phi$-Net](https://apps.peer.berkeley.edu/phi-net/)
+
 <table align="center">
 <tr>
 
