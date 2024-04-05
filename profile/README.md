@@ -42,5 +42,29 @@
   </td>
  
  </tr>
+<tr>
+
+  <td>
+    <a href="https://steer.network">
+    <img src="https://raw.githubusercontent.com/STAIRlab/.github/master/profile/assets/StEER-logo_thumb-2_lg.png"
+         alt="StEER Logo" width="200"/>
+    </a>
+  </td>
+
+  <td>
+    <a href="https://nsf.gov/">
+    <img src="https://raw.githubusercontent.com/STAIRlab/.github/master/profile/assets/NSF_4-Color_bitmap_Logo.png"
+         alt="NSF Logo" width="200"/>
+    </a>
+  </td>
+
+  <td>
+    <a href="https://github.com/STAIRlab">
+    <img src="https://raw.githubusercontent.com/claudioperez/sdof/master/docs/assets/stairlab.svg"
+         alt="STAIRlab Logo" width="200"/>
+    </a>
+  </td>
+ 
+ </tr>
 </table>
 
