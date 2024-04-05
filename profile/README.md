@@ -57,11 +57,19 @@
          alt="NSF Logo" width="200"/>
     </a>
   </td>
+ 
 
   <td>
     <a href="https://github.com/STAIRlab">
     <img src="https://raw.githubusercontent.com/claudioperez/sdof/master/docs/assets/stairlab.svg"
          alt="STAIRlab Logo" width="200"/>
+    </a>
+  </td>
+
+  <td>
+    <a href="https://nsf.gov/">
+    <img src="https://raw.githubusercontent.com/STAIRlab/.github/master/profile/assets/StEER-logo_words only.png"
+         alt="NSF Logo" width="200"/>
     </a>
   </td>
  
