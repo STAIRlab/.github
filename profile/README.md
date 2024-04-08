@@ -2,14 +2,14 @@
 
 [Zenodo](https://zenodo.org/communities/stairlab)
 
-#### Python Packages
+#### Published Packages on PyPI
 
 - [`opensees`](https://pypi.org/project/opensees) Redesigned and optimized OpenSees interface
 - [`sees`](https://pypi.org/project/sees) Model rendering library
 - [`mdof`](https://pypi.org/project/mdof) Optimized system identification library
 - [`sdof`](https://pypi.org/project/sdof) Optimized integration for single degree of freedom systems
 
-#### Recent Publications
+#### Recent Academic Publications
 
 - Mosalam, K.M. and Gao, Y. (2024) *Artificial Intelligence in Vision-Based Structural Health Monitoring*. Cham: Springer Nature Switzerland (Synthesis Lectures on Mechanical Engineering). Available at: https://doi.org/10.1007/978-3-031-52407-3.
 
