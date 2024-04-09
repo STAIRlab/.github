@@ -1,6 +1,5 @@
-# STructural Artificial Inteligence Research Lab
+# STructural Artificial Intelligence Research Lab
 
-[Zenodo](https://zenodo.org/communities/stairlab)
 
 #### Published Packages on PyPI
 
