@@ -10,7 +10,7 @@
 
 #### Recent Academic Publications
 
-- Muin, S., Chern, C. and Mosalam, K.M. (2024) ‘Human–Machine Collaboration Framework for Bridge Health Monitoring’, J. Bridge Eng., 29(7). Available at: https://doi.org/10.1061/JBENF2.BEENG-6587.
+- Muin, S., Chern, C. and Mosalam, K.M. (2024) *‘Human–Machine Collaboration Framework for Bridge Health Monitoring’*, J. Bridge Eng., 29(7). Available at: https://doi.org/10.1061/JBENF2.BEENG-6587.
 
 - Mosalam, K.M. and Gao, Y. (2024) *Artificial Intelligence in Vision-Based Structural Health Monitoring*. Cham: Springer Nature Switzerland (Synthesis Lectures on Mechanical Engineering). Available at: https://doi.org/10.1007/978-3-031-52407-3.
 
