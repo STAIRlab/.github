@@ -1,5 +1,3 @@
-# STructural Artificial Intelligence Research Lab
-
 
 #### Published Packages on PyPI
 
