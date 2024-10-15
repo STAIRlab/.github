@@ -1,8 +1,7 @@
 
 #### Published Packages on PyPI
 
-- [`opensees`](https://pypi.org/project/opensees) Redesigned and optimized OpenSees interface
-- [`sees`](https://pypi.org/project/sees) Model rendering library
+- [`sees`](https://pypi.org/project/sees) Redesigned and optimized OpenSees interface
 - [`mdof`](https://pypi.org/project/mdof) Optimized system identification library
 - [`sdof`](https://pypi.org/project/sdof) Optimized integration for single degree of freedom systems
 
