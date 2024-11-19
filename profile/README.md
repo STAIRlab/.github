@@ -15,6 +15,7 @@
 
 #### Other Projects
 
+- [*structures.live*](https://structures.live)
 - $\Phi$-[Net](https://apps.peer.berkeley.edu/phi-net/)
 
 <table align="center">
