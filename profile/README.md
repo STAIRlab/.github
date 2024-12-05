@@ -4,6 +4,8 @@
 - [`sees`](https://pypi.org/project/sees) Redesigned and optimized OpenSees interface
 - [`mdof`](https://pypi.org/project/mdof) Optimized system identification library
 - [`sdof`](https://pypi.org/project/sdof) Optimized integration for single degree of freedom systems
+- [`irie`](https://pypi.org/project/irie)
+
 
 #### Recent Academic Publications
 
