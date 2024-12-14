@@ -1,10 +1,11 @@
 
 #### Published Packages on PyPI
 
+- [`irie`](https://pypi.org/project/irie) An infrastructure reliability engine
 - [`sees`](https://pypi.org/project/sees) Redesigned and optimized OpenSees interface
 - [`mdof`](https://pypi.org/project/mdof) Optimized system identification library
 - [`sdof`](https://pypi.org/project/sdof) Optimized integration for single degree of freedom systems
-- [`irie`](https://pypi.org/project/irie)
+- [`tear`](https://pypi.org/project/tear) TExt Analytics for Reconnaissance
 
 
 #### Recent Academic Publications
