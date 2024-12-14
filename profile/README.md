@@ -5,6 +5,7 @@
 - [`sees`](https://pypi.org/project/sees) Redesigned and optimized OpenSees interface
 - [`mdof`](https://pypi.org/project/mdof) Optimized system identification library
 - [`sdof`](https://pypi.org/project/sdof) Optimized integration for single degree of freedom systems
+- [`pbfe`](https://pypi.org/project/pbfe) Performance Based Engineering for Resilient Food Industry
 - [`tear`](https://pypi.org/project/tear) TExt Analytics for Reconnaissance
 
 
