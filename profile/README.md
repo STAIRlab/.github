@@ -28,21 +28,21 @@
   <td>
     <a href="https://peer.berkeley.edu">
     <img src="https://raw.githubusercontent.com/claudioperez/sdof/master/docs/assets/peer-black-300.png"
-         alt="PEER Logo" width="200"/>
+         alt="PEER Logo" width="100"/>
     </a>
   </td>
 
   <td>
     <a href="https://dot.ca.gov/">
     <img src="https://raw.githubusercontent.com/claudioperez/sdof/master/docs/assets/Caltrans.svg.png"
-         alt="Caltrans Logo" width="200"/>
+         alt="Caltrans Logo" width="100"/>
     </a>
   </td>
 
   <td>
     <a href="https://github.com/STAIRlab">
     <img src="https://raw.githubusercontent.com/claudioperez/sdof/master/docs/assets/stairlab.svg"
-         alt="STAIRlab Logo" width="200"/>
+         alt="STAIRlab Logo" width="100"/>
     </a>
   </td>
  
@@ -52,21 +52,21 @@
   <td>
     <a href="https://nsf.gov/">
     <img src="https://raw.githubusercontent.com/STAIRlab/.github/master/profile/assets/NSF_4-Color_bitmap_Logo.png"
-         alt="NSF Logo" width="200"/>
+         alt="NSF Logo" width="100"/>
     </a>
   </td>
 
   <td>
     <a href="https://steer.network">
     <img src="https://raw.githubusercontent.com/STAIRlab/.github/master/profile/assets/StEER-logo_thumb-2_lg.png"
-         alt="StEER Logo" width="200"/>
+         alt="StEER Logo" width="100"/>
     </a>
   </td>
 
   <td>
     <a href="https://nsf.gov/">
     <img src="https://raw.githubusercontent.com/STAIRlab/.github/master/profile/assets/StEER-logo_words only.png"
-         alt="NSF Logo" width="200"/>
+         alt="NSF Logo" width="100"/>
     </a>
   </td>
  
