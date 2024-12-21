@@ -3,6 +3,7 @@
 
 - [`irie`](https://pypi.org/project/irie) An infrastructure reliability engine
 - [`sees`](https://pypi.org/project/sees) Redesigned and optimized OpenSees interface
+- [`veux`](https://pypi.org/project/veux) Visualization library
 - [`mdof`](https://pypi.org/project/mdof) Optimized system identification library
 - [`sdof`](https://pypi.org/project/sdof) Optimized integration for single degree of freedom systems
 - [`pbfe`](https://pypi.org/project/pbfe) Performance Based Engineering for Resilient Food Industry
