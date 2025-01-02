@@ -14,7 +14,7 @@
 
 - Muin, S., Chern, C. and Mosalam, K.M. (2024) *‘Human–Machine Collaboration Framework for Bridge Health Monitoring’*, J. Bridge Eng., 29(7). Available at: https://doi.org/10.1061/JBENF2.BEENG-6587.
 
-- Mosalam, K.M. and Gao, Y. (2024) *Artificial Intelligence in Vision-Based Structural Health Monitoring*. Cham: Springer Nature Switzerland (Synthesis Lectures on Mechanical Engineering). Available at: https://doi.org/10.1007/978-3-031-52407-3.
+- Mosalam, K.M. and Gao, Y. (2024) *Artificial Intelligence in Vision-Based Structural Health Monitoring*. Cham: Springer Nature Switzerland (Synthesis Lectures on Mechanical Engineering). Available at: [doi: `10.1007/978-3-031-52407-3`](https://doi.org/10.1007/978-3-031-52407-3).
 
 - Pang, I.K.-T., Gao, Y. and Mosalam, K.M. (2024) *‘Deep Reinforcement Learning for Structural Model Updating Using Transfer Learning Mechanism’*, in Computing in Civil Engineering 2023. ASCE International Conference on Computing in Civil Engineering 2023, Corvallis, Oregon: American Society of Civil Engineers, pp. 364–371. Available at: https://doi.org/10.1061/9780784485231.044.
 
