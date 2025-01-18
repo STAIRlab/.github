@@ -1,5 +1,5 @@
 
-#### Published Packages on PyPI
+#### Packages on PyPI
 
 - [`irie`](https://pypi.org/project/irie) An infrastructure reliability engine
 - [`sees`](https://pypi.org/project/sees) Nonlinear finite element analysis through OpenSees
@@ -10,7 +10,7 @@
 - [`tear`](https://pypi.org/project/tear) TExt Analytics for Reconnaissance
 
 
-#### Recent Academic Publications
+#### Recent Publications
 
 - Muin, S., Chern, C. and Mosalam, K.M. (2024) *‘Human–Machine Collaboration Framework for Bridge Health Monitoring’*, J. Bridge Eng., 29(7). Available at: [doi: `10.1061/JBENF2.BEENG-6587`](https://doi.org/10.1061/JBENF2.BEENG-6587).
 
@@ -28,7 +28,8 @@
 
   <td>
     <a href="https://peer.berkeley.edu">
-    <img src="https://raw.githubusercontent.com/claudioperez/sdof/master/docs/assets/peer-black-300.png"
+    <!-- https://raw.githubusercontent.com/claudioperez/sdof/master/docs/assets/peer-black-300.png -->
+    <img src="https://stairlab.berkeley.edu/wp-content/uploads/2025/01/PEER_logo_old.svg"
          alt="PEER Logo" width="100"/>
     </a>
   </td>
@@ -41,7 +42,7 @@
   </td>
 
   <td>
-    <a href="https://github.com/STAIRlab">
+    <a href="https://stairlab.berkeley.edu">
     <img src="https://raw.githubusercontent.com/claudioperez/sdof/master/docs/assets/stairlab.svg"
          alt="STAIRlab Logo" width="100"/>
     </a>
