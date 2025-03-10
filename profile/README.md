@@ -2,9 +2,9 @@
 #### Packages on PyPI
 
 - [`irie`](https://pypi.org/project/irie) An infrastructure reliability engine
-- [`sees`](https://pypi.org/project/sees) Nonlinear finite element analysis through OpenSees
+- [`sees`](https://opensees.stairlab.io) Nonlinear finite element analysis through OpenSees
 - [`veux`](https://veux.io/) Visualization library
-- [`mdof`](https://pypi.org/project/mdof) Optimized system identification library
+- [`mdof`](https://mdof.chrystalchern.com) Optimized system identification library
 - [`sdof`](https://pypi.org/project/sdof) Optimized integration for single degree of freedom systems
 - [`pbfe`](https://pypi.org/project/pbfe) Performance Based Engineering for Resilient Food Industry
 - [`tear`](https://pypi.org/project/tear) TExt Analytics for Reconnaissance
