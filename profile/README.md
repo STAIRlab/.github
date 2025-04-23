@@ -1,6 +1,7 @@
 
 #### Packages on PyPI
 
+- [`xbim`](https://pypi.org/project/xbim) Structure information modeling
 - [`irie`](https://pypi.org/project/irie) An infrastructure reliability engine
 - [`xara`](https://xara.so) Nonlinear finite element analysis through OpenSees
 - [`veux`](https://veux.io/) Visualization library
