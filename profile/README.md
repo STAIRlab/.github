@@ -13,6 +13,8 @@
 
 #### Recent Publications
 
+- Xinjie, Yuan, and Khalid M. Mosalam. “Prediction of the Most Fire‐sensitive Point in Building Structures with Differentiable Agents for Thermal Simulators.” Computer-Aided Civil and Infrastructure Engineering, June 18, 2025, mice.13534. [doi: `10.1111/mice.13534`](https://doi.org/10.1111/mice.13534).
+
 - Muin, S., Chern, C. and Mosalam, K.M. (2024) *‘Human–Machine Collaboration Framework for Bridge Health Monitoring’*, J. Bridge Eng., 29(7). Available at: [doi: `10.1061/JBENF2.BEENG-6587`](https://doi.org/10.1061/JBENF2.BEENG-6587).
 
 - Mosalam, K.M. and Gao, Y. (2024) *Artificial Intelligence in Vision-Based Structural Health Monitoring*. Cham: Springer Nature Switzerland (Synthesis Lectures on Mechanical Engineering). Available at: [doi: `10.1007/978-3-031-52407-3`](https://doi.org/10.1007/978-3-031-52407-3).
