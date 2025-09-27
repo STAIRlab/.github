@@ -1,15 +1,16 @@
 
 #### Packages on PyPI
 
-- [`xbim`](https://pypi.org/project/xbim) Structure information modeling
-- [`irie`](https://pypi.org/project/irie) An infrastructure reliability engine
 - [`xara`](https://xara.so) Nonlinear finite element analysis through OpenSees
 - [`veux`](https://veux.io/) Visualization library
 - [`mdof`](https://mdof.chrystalchern.com) Optimized system identification library
 - [`sdof`](https://pypi.org/project/sdof) Optimized integration for single degree of freedom systems
+
+<!--
 - [`pbfe`](https://pypi.org/project/pbfe) Performance Based Engineering for Resilient Food Industry
 - [`tear`](https://pypi.org/project/tear) TExt Analytics for Reconnaissance
-
+- [`irie`](https://pypi.org/project/irie) An infrastructure reliability engine
+-->
 
 #### Recent Publications
 
